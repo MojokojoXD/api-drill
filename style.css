@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+    margin:100px;
+    background-image: url('https://mmobits.com/wp-content/uploads/2020/02/alderaan-sh-achieve-header.png');
+    background-repeat: no-repeat;
+    background-color: #3c5c7d;
+    background-size: cover;
+}
+
+div{
+    height: 50%;
+    width: 50%;
+    margin-top: 50vh;
+    margin:auto;
+    background-color: antiquewhite;
+    background-image: url('https://images.unsplash.com/photo-1598620617148-c9e8ddee6711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bm90ZXBhZHxlbnwwfHwwfHw%3D&w=1000&q=80');
+    background-position: center;
+    border-radius: 15px;
+}
+
+button{
+    margin: 80px 80px;
+    color: white;
+    background-color: gray;
+    border: none;
+    font-family: "tahoma","verdana",sans-serif;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+}
+
